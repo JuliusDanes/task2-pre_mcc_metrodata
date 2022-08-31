@@ -1,0 +1,15 @@
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.csproj.AssemblyReference.cache
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.AssemblyInfoInputs.cache
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.AssemblyInfo.cs
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.csproj.CoreCompileInputs.cache
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\bin\Debug\net6.0\taks2-pre_mcc_metrodata.exe
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\bin\Debug\net6.0\taks2-pre_mcc_metrodata.deps.json
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\bin\Debug\net6.0\taks2-pre_mcc_metrodata.runtimeconfig.json
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\bin\Debug\net6.0\taks2-pre_mcc_metrodata.dll
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\bin\Debug\net6.0\taks2-pre_mcc_metrodata.pdb
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.dll
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\refint\taks2-pre_mcc_metrodata.dll
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.pdb
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\taks2-pre_mcc_metrodata.genruntimeconfig.cache
+E:\Event\Bootcamp Metrodata\Tugas\taks2-pre_mcc_metrodata\taks2-pre_mcc_metrodata\obj\Debug\net6.0\ref\taks2-pre_mcc_metrodata.dll

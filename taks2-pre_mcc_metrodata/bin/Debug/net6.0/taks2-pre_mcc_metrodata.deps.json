@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "taks2-pre_mcc_metrodata/1.0.0": {
+        "runtime": {
+          "taks2-pre_mcc_metrodata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "taks2-pre_mcc_metrodata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
